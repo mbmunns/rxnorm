@@ -1,0 +1,1 @@
+sqlldr CONTROL=modifier_w_clob.ctl   skip=1   

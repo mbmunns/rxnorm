@@ -1,0 +1,1 @@
+sqlldr heronloader/He219Uhu0wl@DEID CONTROL=modifier_w_clob.ctl   skip=1   
